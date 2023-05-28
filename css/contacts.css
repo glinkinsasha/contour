@@ -1,0 +1,93 @@
+header ul a:nth-child(4){
+	background: rgba(0, 0, 0, 0.103);
+}
+.contacts {
+    font-size: 48px;
+    color: black;
+    margin-top: 150px;
+    margin-left: 650px;
+    position: relative;
+    height: 150px;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 58px;
+    color: #000000;
+}
+.block {
+    width: 100%;
+}
+.block__block {
+    display: flex;
+    width: 74%;
+}
+.block__img {
+    margin-top: 4.5%;
+    margin-left: 10.1%;
+    width:58.5%;
+}
+.block__img img {
+    width:100%;
+}
+.block__name {
+    font-size: 36px;
+    color: black;
+    font-family: Arial;
+    margin-top: 64px;
+    margin-left: 304px;
+    position: relative;
+    height: 58px;
+    font-weight: bolder;
+    line-height: 58px;
+    color: #000000;
+}
+.block__house {
+    font-size: 26px;
+    margin-bottom: 10;
+    margin-left: 14px;
+    color: black;
+    font-family: Arial;
+    position: relative;
+    height: 50px;
+    width: 150%;
+    line-height: 58px;
+    font-weight: bolder;
+    color: #000000;
+}
+.block__signature1 {
+    font-size: 16px;
+    margin: 0 auto;
+    margin-left: 320px;
+    color: black;
+    font-family: Arial;
+    height: 10px;
+    width: 80%;
+    line-height: 18px;
+    font-weight:lighter;
+    color: #000000;
+}
+.block__number {
+    font-size: 26px;
+    margin-left: 250px;
+    margin-top: 20px;
+    color: black;
+    font-family: Arial;
+    position: relative;
+    height: 50px;
+    width: 100%;
+    line-height: 58px;
+    font-weight: bolder;
+    color: #000000;
+}
+.block__signature2 {
+    font-size: 16px;
+    margin: 0 auto;
+    margin-bottom: 10;
+    margin-left: 310px;
+    color: black;
+    font-family: Arial;
+    height: 10px;
+    width: 100%;
+    line-height: 18px;
+    font-weight:lighter;
+    color: #000000;
+}
